@@ -6,10 +6,6 @@ Item 6
 
 Item 7
 Item 8
-<<<<<<< HEAD
 Item 9
-
-item 11
-=======
-Item 9
->>>>>>> novaBranch
+Item 10
+Item 11
